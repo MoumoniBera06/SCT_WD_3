@@ -3,26 +3,6 @@
     "category": "JavaScript",
     "questions": [
       {
-        "question": "What is the output of `typeof null` in JavaScript?",
-        "options": ["object", "null", "undefined", "boolean"],
-        "correctAnswer": 0
-      },
-      {
-        "question": "Which company developed JavaScript?",
-        "options": ["Mozilla", "Netscape", "Microsoft", "Oracle"],
-        "correctAnswer": 1
-      },
-      {
-        "question": "What is the use of `isNaN()` function?",
-        "options": [
-          "Checks if a value is null",
-          "Checks if a value is a number",
-          "Checks if a value is NaN",
-          "Checks if a value is undefined"
-        ],
-        "correctAnswer": 2
-      },
-      {
         "question": "What symbol is used for single-line comments in JavaScript?",
         "options": ["//", "/*", "<!--", "#"],
         "correctAnswer": 0
@@ -362,26 +342,7 @@
         "options": ["for", "while", "do-while", "foreach"],
         "correctAnswer": 2
       },
-      {
-        "question": "Which keyword is used to define a constant value in C?",
-        "options": ["constant", "const", "#define", "final"],
-        "correctAnswer": 2
-      },
-      {
-        "question": "Which of the following is not a valid variable name in C?",
-        "options": ["_var", "var2", "2var", "var_2"],
-        "correctAnswer": 2
-      },
-      {
-        "question": "Which operator is used to check equality in C?",
-        "options": ["=", "==", "===", "!="],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Which function is used to read a single character from the keyboard?",
-        "options": ["getchar()", "scanf()", "getch()", "gets()"],
-        "correctAnswer": 0
-      },
+      
       {
         "question": "What is the size of an int data type in most systems?",
         "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on compiler"],
@@ -586,11 +547,6 @@
         "question": "Which SQL statement is used to modify existing data?",
         "options": ["UPDATE", "MODIFY", "CHANGE", "ALTER"],
         "correctAnswer": 0
-      },
-      {
-        "question": "Which command is used to remove a table from the database?",
-        "options": ["DELETE", "DROP", "REMOVE", "TRUNCATE"],
-        "correctAnswer": 1
       },
       {
         "question": "Which of these is a DDL command?",
